@@ -53,14 +53,13 @@ Tools                   practical workflows for builders
 </p>
 
 ## GitHub Activity
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anand1140&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=39d353" alt="Anand's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Anand's most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anand1140&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;icon_color=58a6ff&amp;text_color=c9d1d9&amp;ring_color=39d353" alt="Anand's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&amp;layout=compact&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=79c0ff&amp;text_color=c9d1d9" alt="Anand's most-used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand1140&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" alt="Anand's contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand1140&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=58a6ff&amp;point=79c0ff&amp;area=true&amp;area_color=1f6feb&amp;hide_border=true" alt="Anand's contribution graph" width="100%" />
 </p>
 
 ## Connect

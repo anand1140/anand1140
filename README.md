@@ -49,13 +49,7 @@ Tools                   practical workflows for builders
   <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
 </p>
 
-## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand1140&show_icons=true&theme=tokyonight" alt="Anand's GitHub statistics" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&layout=compact&theme=tokyonight" alt="Anand's most-used languages" />
-</p>
 
 ## Connect
 
@@ -76,5 +70,11 @@ Tools                   practical workflows for builders
     <img src="https://img.shields.io/badge/Codeforces-Profile-0d1117?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" />
   </a>
 </p>
+
+## Current Goal
+
+Build things that solve real problems, deepen my understanding of computer systems, and become a better engineer one project at a time.
+
+
 
 > *Code. Read. Reflect. Repeat.*

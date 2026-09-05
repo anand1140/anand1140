@@ -49,13 +49,32 @@ Tools                   practical workflows for builders
   <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900" alt="AWS" />
 </p>
 
-## GitHub Activity
+## GitHub Stats
 
-GitHub already keeps the source of truth for this work. Explore my [contributions](https://github.com/anand1140), [public repositories](https://github.com/anand1140?tab=repositories), and the projects pinned above.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand1140&show_icons=true&theme=tokyonight" alt="Anand's GitHub statistics" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&layout=compact&theme=tokyonight" alt="Anand's most-used languages" />
+</p>
 
 ## Connect
 
-<a href="https://www.topcoder.com/members/226002"><img src="https://img.shields.io/badge/Topcoder-226002-0d1117?style=flat-square&amp;logo=topcoder&amp;logoColor=29A8E0" alt="Topcoder profile" /></a>
-<a href="mailto:posidon254@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hello-0d1117?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email Anand" /></a>
+<p align="left">
+   <a href="https://twitter.com/posidon_1140" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-0d1117?style=flat-square&logo=x&logoColor=ffffff" alt="X / Twitter" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/anand-s-a273aa203?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:posidon254@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20hello-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+
+  <a href="https://codeforces.com/profile/asta_1140" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-0d1117?style=flat-square&logo=codeforces&logoColor=1F8ACB" alt="Codeforces" />
+  </a>
+</p>
 
 > *Code. Read. Reflect. Repeat.*

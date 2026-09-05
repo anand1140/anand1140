@@ -1,122 +1,67 @@
-<h1 align="center">Hi 👋, I'm Anand</h1>
-
-<h3 align="center">
-Reading Dostoevsky, writing Rust, questioning both.
-</h3>
+<p align="center">
+  <img src="./assets/terminal-hero.svg" alt="Anand — developer terminal" width="100%" />
+</p>
 
 <p align="center">
-Computer Science Student • Rust Enthusiast • Builder of Things That Occasionally Compile
+  <a href="#-now">Now</a> ·
+  <a href="#-focus">Focus</a> ·
+  <a href="#-selected-work">Work</a> ·
+  <a href="#-activity">Activity</a> ·
+  <a href="#-elsewhere">Elsewhere</a>
 </p>
 
----
+## `> whoami`
 
-## 🚀 About Me
+I’m **Anand**, a computer science student who likes building close to the metal: reliable backends, developer tools, and systems that are easier to reason about than they first appear.
 
-🔭 Currently building **a Smart Code Snippet Manager**
+Outside the terminal: reading Dostoevsky and Hermann Hesse, juggling a football, and asking too many questions about how things work.
 
-🌱 Currently learning **Rust, C++, TypeScript, System Design, and Backend Engineering**
+## `> now`
 
-⚽ Football juggler when I'm not debugging
+- Building a **Smart Code Snippet Manager** and **Beyond Borders**, a travel journaling and mapping platform.
+- Going deeper on Rust, C++, TypeScript, backend engineering, and system design.
+- Learning through multi-threaded servers, Linux internals, networking fundamentals, and data structures.
 
-📚 Reading Dostoevsky, Hermann Hesse, and anything that makes me think
+## `> focus`
 
-🗺️ Creator of **Beyond Borders** — a travel journaling & mapping platform
+```text
+systems programming     █████████░  Rust · C++ · Linux
+backend & networking    ████████░░  HTTP · APIs · distributed systems
+security                ███████░░░  malicious URL analysis · secure tooling
+machine learning        ██████░░░░  practical detection systems
+craft                   █████████░  Neovim · Git · clear interfaces
+```
 
-💡 Interested in:
-- Systems Programming
-- Backend Engineering
-- Distributed Systems
-- Networking
-- Open Source
-- Developer Tools
+## `> selected work`
 
----
+| Project | What I’m exploring |
+| --- | --- |
+| **Universal Log Preprocessing Framework** | A reusable path from noisy logs to analysis-ready data. |
+| **Malicious URL Detection** | Applying machine learning and security thinking to identify risky links. |
+| **Smart Code Snippet Manager** | A fast, thoughtful home for snippets worth keeping. |
+| **Beyond Borders** | A travel journal and map for turning places into stories. |
 
-## 🌌 Currently Exploring
+I’m also looking for open-source work and **GSoC** opportunities where I can learn in public and contribute something useful.
 
-- Multi-threaded servers in Rust
-- Linux internals
-- HTTP and networking fundamentals
-- Data Structures & Algorithms
-- System Design
-- Developer productivity tools
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/anand" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anand" height="30" width="40" />
-</a>
-
-<a href="https://www.topcoder.com/members/226002" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="226002" height="30" width="40" />
-</a>
-</p>
-
-📫 Reach me at: **posidon254@gmail.com**
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
+## `> activity`
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anand1140&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anand1140&show_icons=true&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=39d353" alt="Anand's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand1140&layout=compact&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=c9d1d9" alt="Anand's most-used languages" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anand1140&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" alt="Anand's contribution graph" width="100%" />
+</p>
 
-## 🎯 Current Goal
+## `> elsewhere`
 
-Build things that solve real problems, deepen my understanding of computer systems, and become a better engineer one project at a time.
+<p>
+  <a href="https://www.topcoder.com/members/226002"><img src="https://img.shields.io/badge/Topcoder-226002-0D1117?style=flat-square&logo=topcoder&logoColor=29A8E0" alt="Topcoder" /></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/currently-writing-Rust-0D1117?style=flat-square&logo=rust&logoColor=CE422B" alt="Currently writing Rust" /></a>
+  <img src="https://img.shields.io/badge/editor-Neovim-0D1117?style=flat-square&logo=neovim&logoColor=57A143" alt="Neovim" />
+  <img src="https://img.shields.io/badge/platform-Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux" />
+</p>
 
-> Code. Read. Reflect. Repeat.
+> *Code. Read. Reflect. Repeat.*
+
